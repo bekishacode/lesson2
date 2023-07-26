@@ -1,0 +1,13 @@
+.blogCard{
+    margin: 16px;
+    padding: 25px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px #747070;
+    background-color: #071a2e;
+  }
+
+  .h2file{
+    background-color: white;
+    color: #dbb8b8;
+  }
